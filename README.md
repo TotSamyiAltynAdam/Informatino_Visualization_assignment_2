@@ -1,3 +1,11 @@
+    ---
+    The provided data was taken from 
+    https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
+
+    In this assignment I have designed an interface that shows visualization interactive techniques like brushing, painting, scaling and linking.
+    I have included more than one filtering option
+    ---
+
 1. The "results.csv" file contains columns with the following names: "date," "home_team," "away_team," "home_score," "away_score," "tournament," "city," "country," and "neutral."
 The "date" column represents the date when the game took place, using the format "YYYY-MM-DD" (e.g., 1872-11-30). The "home_team" column indicates the team hosting the game (e.g., Scotland), while the "away_team" column denotes the opposing team (e.g., England). The "home_score" column represents the number of goals scored by the home team (e.g., 2), and the "away_score" column represents the number of goals scored by the away team (e.g., 3). The "tournament" column provides the name of the tournament, specifically indicating if it was a friendly match. The "city" column indicates the location where the match was conducted (e.g., Glasgow), while the "country" column specifies the country where the city is situated (e.g., Scotland). The "neutral" column denotes whether the match was played in a neutral country, with a value of "FALSE" or "TRUE."
 
